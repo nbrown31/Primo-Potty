@@ -20,8 +20,8 @@
 
  <div id="cover">
     <div class="cover-content">
-      <h1>Primo Potty</h1>
-      <h2>The Easiest Way To Find The Best Bathrooms.</h2>
+      <h1>The Easiest Way To Find The Best Bathrooms.</h1>
+      <h2>
       
     </div>
   </div>

@@ -2,6 +2,17 @@ body {
   background-color: #FFF;
   margin: 0;
   padding: 0;
+
+}
+.navigation {
+  background-color: rgba(255, 255, 255, 0.9);
+  overflow-y: auto;
+  position: scroll;
+  left: 0;
+  top: 0;
+  text-align: center;
+  width: 100%;
+  z-index: 10000;
 }
 #cover {
   background: url(https://media.newyorker.com/photos/590973b82179605b11ad7f2a/16:9/w_1200,h_630,c_limit/Suk-Sex-in-Bathrooms1.jpg)no-repeat top center;
@@ -17,8 +28,8 @@ body {
   font-size: 72px;
   text-align: center;
   line-height: 60px;
-  color: #333333;
-  padding: 20px 10px;
+  color: #444444;
+  padding: 600px 10px;
  
  }
  
