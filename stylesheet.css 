@@ -1,0 +1,13 @@
+
+
+#cover {
+  background: url(https://s-media-cache-ak0.pinimg.com/originals/66/8d/37/668d3708183e2c93565eef2837301b42.jpg)
+  no-repeat center bottom;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 900px;
+  position: relative;
+  top: -55px;
+  width: 100%;
+  }
+  
