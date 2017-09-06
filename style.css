@@ -1,0 +1,49 @@
+body {
+  background-color: #FFF;
+  margin: 0;
+  padding: 0;
+}
+#cover {
+  background: url(https://media.newyorker.com/photos/590973b82179605b11ad7f2a/16:9/w_1200,h_630,c_limit/Suk-Sex-in-Bathrooms1.jpg)no-repeat top center;
+  background-attachment: scroll;
+  background-size: cover;
+  height: 600px;
+  position: relative;
+  
+}
+  
+  h1 {
+  font-family: 'Raleway'
+  font-size: 72px;
+  text-align: center;
+  line-height: 60px;
+  color: #333333;
+  padding: 20px 10px;
+ 
+ }
+ 
+
+h2 {
+font-family: 'Amatic SC';
+font-size: 26px;
+text-align: center;
+color: #000000;
+text-transform: uppercase;
+}
+
+li {
+  color: #14213D;
+  display: inline-block;
+  font-family: 'Abel', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  margin: 16px 20px;
+  text-transform: uppercase;
+}
+
+#logo {
+  color: #FCA311;
+  font-family: 'Amatic SC', cursive;
+  font-size: 32px;
+  padding: 0px 50px;
+}
